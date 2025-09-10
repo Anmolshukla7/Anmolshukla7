@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Anmolshukla7
-- 👀 I’m interested in .coding.
-- 🌱 I’m currently learning c...
-- 💞️ I’m looking to collaborate on .programming.
-- 📫 How to reach me anmolkumarkumar0687@gmail.com...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m ANMOL KUMAR
+💻 Passionate IT student | Problem Solver | Tech Enthusiast
+🚀 Exploring Java, Python, Web Development, and DSA
+🔍 Interested in Data Science, AI/ML, and Open Source
+🌱 Always learning & building projects to sharpen my skills
+📫 Reach me at: anmolkumarshukla10@gmail.com
 
-<!---
-Anmolshukla7/Anmolshukla7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+"Code. Learn. Build. Repeat."
